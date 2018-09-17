@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "628892718534",
+    "firebase_url": "https://ditch-news.firebaseio.com",
+    "project_id": "ditch-news",
+    "storage_bucket": "ditch-news.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628892718534:android:efc3fea4981568a8",
+        "android_client_info": {
+          "package_name": "com.example.khairy.ditchnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628892718534-t9sq362b2c867og6enjkupocjdhl30tl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.khairy.ditchnews",
+            "certificate_hash": "8e011907a4e9a9828990411f2ed0227d118fc687"
+          }
+        },
+        {
+          "client_id": "628892718534-jh7vaeuhcuhti79dcqt7a3d2hibrfb5l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6xbnrBZSOvbmwCeirBGtS1WWMSoOCnB0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "628892718534-jh7vaeuhcuhti79dcqt7a3d2hibrfb5l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Ditch News</string>
+    <string name="Open">open</string>
+    <string name="Close">close</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="addwidget">added to widget.</string>
+    <string name="widget">Widget</string>
+    <string name="abc">ABC-news</string>
+    <string name="argaam">Argaam</string>
+    <string name="buzz">Buzz feed</string>
+    <string name="cnn">CNN news</string>
+    <string name="daily">Daily Mail</string>
+    <string name="google">Google</string>
+    <string name="saqved">Saved News</string>
+    <string name="newsImage">News Image</string>
+    <string name="share">share</string>
+    <string name="nowifi">No Wifi</string>
+    <string name="powered">Powered by NewsApi.org</string>
+    <string name="saved">Saved</string>
+    <string name="refresh">Refresh</string>
+    <string name="delete">Deleted</string>
+    <string name="error">Error</string>
+    <string name="visit">Visit</string>
+    <string name="incorrect">Sorry incorrect index passed</string>
+    <string name="error_loading">Error in loading webpage</string>
+    <string name="check">Click to Save</string>
+
+
+
+</resources>

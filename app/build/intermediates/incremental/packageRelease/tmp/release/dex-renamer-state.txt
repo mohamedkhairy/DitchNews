@@ -1,0 +1,4 @@
+#Mon Sep 17 08:16:53 EET 2018
+base.0=G\:\\droid\\DitchNews\\app\\build\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
