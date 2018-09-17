@@ -20,6 +20,8 @@ so to pithiness the time I update on this app to cover the required task
  butterKnife
  mockito & powermock for testing
 
+here's the app apk : https://github.com/mohamedkhairy/DitchNews/raw/master/app/release/app-release.apk
+
 -I used Firebase DB previously so I kept it 
 in the NavigationView there are "saved news" button that will display a favorite news
 
